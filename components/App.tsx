@@ -21,4 +21,5 @@ const HelloWorldApp = () => {
     </SafeAreaView>
   );
 };
+
 export default HelloWorldApp;
